@@ -362,3 +362,5 @@ class TriangleAvecPoint implements Figure{
         return coteA==coteB && coteA==coteC;
     }
  }
+
+ //commentaire 1
