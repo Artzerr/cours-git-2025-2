@@ -375,3 +375,4 @@ class TriangleAvecPoint implements Figure{
 //commentaire mergeFastForward2
 
 //git stash pop ici
+//git stash pop 2 
