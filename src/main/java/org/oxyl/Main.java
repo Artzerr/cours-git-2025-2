@@ -371,3 +371,4 @@ class TriangleAvecPoint implements Figure{
 //commentaire798754
 //commentaire798754zijfozjf
 //commentaire798754zeorzehrzoe
+//commentaire mergeFastForward
