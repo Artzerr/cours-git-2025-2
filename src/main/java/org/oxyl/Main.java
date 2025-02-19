@@ -380,3 +380,4 @@ class TriangleAvecPoint implements Figure{
 //Steziehfifzfb
 //erpfjerhierbgergergebrgemrgbergbergb
 //commit binome nul
+//commit bionome nul 2
