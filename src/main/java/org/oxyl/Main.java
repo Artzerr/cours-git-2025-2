@@ -381,3 +381,7 @@ class TriangleAvecPoint implements Figure{
 //erpfjerhierbgergergebrgemrgbergbergb
 //commit binome nul
 //commit bionome nul 2
+//commit binomeB
+
+//commit test en meme temps que l'autre nul
+//commit deuxieme test en même que l'autre pouf
