@@ -379,3 +379,4 @@ class TriangleAvecPoint implements Figure{
 //git stash pop 2
 //Steziehfifzfb
 //erpfjerhierbgergergebrgemrgbergbergb
+//commit binome nul
